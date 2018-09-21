@@ -7,4 +7,5 @@ ___
 
 * Screenshot
 
-<img src="Images/FirstScreen.jpg" width="800">
+<img src="Image/Screenshot.jpg" width="800">
+
