@@ -1,8 +1,8 @@
 # An Endless Moving Background in SpriteKit
 An Endless Moving Background in SpriteKit. This whole project is created completely programmatically without .sks files and Xcodes Scene Editor.
 
-![platform-ios](https://img.shields.io/badge/platform-ios-LightPurple.svg)
-![swift-version](https://img.shields.io/badge/swift-3.2-LightBlue.svg)
+![platform-ios](https://img.shields.io/badge/platform-ios-LightPink.svg)
+![swift-version](https://img.shields.io/badge/swift-3.2-LigtBlue.svg)
 ![lisence](https://img.shields.io/badge/license-MIT-Lightgrey.svg)
 
 ___
